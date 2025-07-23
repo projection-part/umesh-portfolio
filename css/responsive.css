@@ -1,0 +1,11 @@
+@charset "utf-8";
+
+@media(max-width: 768px)	
+	{
+		#home p{
+			text-align: justify;
+		}
+		.services-col{
+			margin-bottom: 40px;
+		}
+	}
